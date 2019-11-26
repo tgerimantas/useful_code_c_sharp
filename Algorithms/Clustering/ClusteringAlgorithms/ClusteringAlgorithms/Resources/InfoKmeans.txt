@@ -1,0 +1,8 @@
+KMEANS - clustering algorithm
+
+Features:
++Read data file.
+When you open data you need select x and y data columns.
+
++Select data points and cluster points on the diagram.
+In Data section you can select, remove, generate data and cluster points.

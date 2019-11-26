@@ -1,0 +1,17 @@
+K Nearest Neighbors- classification algorithm
+
+Features:
++Read data file. You can read cvs file type data. 
+
+-K element input - program takes k nearest neighbors data objects which is near to test object  
+and decides which class will be set to the test data.
+
+-Select rows input - you can select which column data you will use to learn a algorithm
+by typing column numbers 1,2...n. Each number need to be separated with commas.
+
+-Class column input - you select which column(number) is class type column. The program selects all class types.
+
+-New object input - you can test a algorithm with own test data. 
+You input data which is separated with commas (you need exact same amount data elements as "select rows input").
+
+When you press calculate button the console shows which class type is your test object.
